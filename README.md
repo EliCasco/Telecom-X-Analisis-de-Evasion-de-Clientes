@@ -31,11 +31,12 @@ La pérdida de clientes es uno de los mayores desafíos para las empresas de sus
 4. **Servicios adicionales:** Clientes sin servicios de soporte técnico o seguridad online tienden a abandonar más rápido.
 
 ## 💡 Recomendaciones Estratégicas
-* **incentivos para migrar a clientes de contratos mensuales a contratos anuales.
 
-* **Automatizar los métodos de pago para reducir la fricción.
+* Implementar incentivos para migrar a clientes de contratos mensuales a contratos anuales.
 
-* **Crear campañas de "Customer Success" enfocadas en los clientes durante su primer semestre.
+* Automatizar los métodos de pago para reducir la fricción.
+
+* Crear campañas de "Customer Success" enfocadas en los clientes durante su primer semestre.
 
 
 ## Autor: Eliana Casco
