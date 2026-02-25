@@ -1,5 +1,5 @@
-# Telecom-X-Analisis-de-Evasion-de-Clientes
-La empresa Telecom X enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes
+# Telecom X Analisis de Evasion de Clientes
+
 # 📊 Análisis de Evasión de Clientes (Churn Rate)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -30,7 +30,14 @@ La pérdida de clientes es uno de los mayores desafíos para las empresas de sus
 3. **Antigüedad:** Los primeros **6 meses** son críticos; si un cliente supera el primer año, su probabilidad de abandono disminuye drásticamente.
 4. **Servicios adicionales:** Clientes sin servicios de soporte técnico o seguridad online tienden a abandonar más rápido.
 
-## 🚀 Cómo utilizar este repositorio
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git)
+## 💡 Recomendaciones Estratégicas
+* **incentivos para migrar a clientes de contratos mensuales a contratos anuales.
+
+* **Automatizar los métodos de pago para reducir la fricción.
+
+* **Crear campañas de "Customer Success" enfocadas en los clientes durante su primer semestre.
+
+
+## Autor: Eliana Casco
+
+## LinkedIn: www.linkedin.com/in/eliana-casco-6359aa383
